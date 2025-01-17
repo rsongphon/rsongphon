@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Songphon Reangsang</h1>
-<h3 align="center">Machine Learning Engineer | Research Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Machine Learning Engineer | Computer Science Enthusiast | Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **Full-Stack Web Application Platform for Behavioral Experiments in Non-human Primates**
 
