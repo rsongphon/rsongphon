@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **r.songphon@gmail.com**
 
-- 📄 Know about my experiences [See my resume!](https://drive.google.com/file/d/1qg_f2riNOoiErvLMa84d_ArTc-4dBLd8/view?usp=sharing)
+- 📄 [See my resume](https://drive.google.com/file/d/1qg_f2riNOoiErvLMa84d_ArTc-4dBLd8/view?usp=sharing) to learn more about my previous projects.
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
